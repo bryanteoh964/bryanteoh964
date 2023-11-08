@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  Hi 👋, I'm Bryan
+  I am a student developer at Boston University
+</div
 
 <!--
 **bryanteoh964/bryanteoh964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
